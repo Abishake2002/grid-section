@@ -1,0 +1,60 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+body{
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+img{
+    border-radius: 50%;
+}
+.john{
+    border-radius: 50%;
+}
+
+
+.box1,.box2,.box3,.box4,.box5{
+margin: 5px;
+}
+
+.p{
+margin-top: 20px;
+}
+.line{
+    line-height: 5px;
+}
+
+.box1{
+    background-color: blueviolet;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.box2{
+    background-color: rgb(83, 81, 81);
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.box3{
+    padding: 20px;
+    background-color: beige;
+    border-radius: 5px;
+}
+.box4{
+    background-color: rgb(15, 15, 32);
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.box5{
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
